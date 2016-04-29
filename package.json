@@ -1,0 +1,27 @@
+{
+  "name": "sortobj2querystr",
+  "version": "0.0.1",
+  "description": "sort obj to querystring",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finrila/sortobj2querystr.git"
+  },
+  "keywords": [
+    "sort",
+    "object",
+    "querystring"
+  ],
+  "author": "finrila@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finrila/sortobj2querystr/issues"
+  },
+  "homepage": "https://github.com/finrila/sortobj2querystr#readme",
+  "dependencies": {
+    "getkeys": "^1.0.1"
+  }
+}
