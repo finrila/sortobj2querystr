@@ -5,6 +5,8 @@ QueryString of sort by Object
     npm install sortobj2querystr --save
 
 ###Usage
+    @param obj {Object} source
+    @param encode {Boolean} true/false default false
 
 ```javascript
 'use strict';

@@ -8,6 +8,6 @@ let obj = {
   a: 'a=test'
 };
 
-let result = sortobj2querystr(obj);
+let result = sortobj2querystr(obj, true);
 
 console.log(result); //-> a=a%3Dtest&b=b%20value&c=c%20%26%20value

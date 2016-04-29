@@ -1,6 +1,6 @@
 {
   "name": "sortobj2querystr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sort obj to querystring",
   "main": "index.js",
   "scripts": {
